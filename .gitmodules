@@ -1,0 +1,102 @@
+[submodule "av"]
+	path = av
+	url = /mydev/AOSP/frameworks/av
+[submodule "base"]
+	path = base
+	url = /mydev/AOSP/frameworks/base
+[submodule "opt/bitmap"]
+	path = opt/bitmap
+	url = /mydev/AOSP/frameworks/opt/bitmap
+[submodule "opt/bluetooth"]
+	path = opt/bluetooth
+	url = /mydev/AOSP/frameworks/opt/bluetooth
+[submodule "opt/calendar"]
+	path = opt/calendar
+	url = /mydev/AOSP/frameworks/opt/calendar
+[submodule "opt/chips"]
+	path = opt/chips
+	url = /mydev/AOSP/frameworks/opt/chips
+[submodule "opt/colorpicker"]
+	path = opt/colorpicker
+	url = /mydev/AOSP/frameworks/opt/colorpicker
+[submodule "data-binding"]
+	path = data-binding
+	url = /mydev/AOSP/frameworks/data-binding
+[submodule "opt/datetimepicker"]
+	path = opt/datetimepicker
+	url = /mydev/AOSP/frameworks/opt/datetimepicker
+[submodule "opt/emoji"]
+	path = opt/emoji
+	url = /mydev/AOSP/frameworks/opt/emoji
+[submodule "opt/net/ethernet"]
+	path = opt/net/ethernet
+	url = /mydev/AOSP/frameworks/opt/net/ethernet
+[submodule "ex"]
+	path = ex
+	url = /mydev/AOSP/frameworks/ex
+[submodule "opt/net/ims"]
+	path = opt/net/ims
+	url = /mydev/AOSP/frameworks/opt/net/ims
+[submodule "opt/inputconnectioncommon"]
+	path = opt/inputconnectioncommon
+	url = /mydev/AOSP/frameworks/opt/inputconnectioncommon
+[submodule "opt/inputmethodcommon"]
+	path = opt/inputmethodcommon
+	url = /mydev/AOSP/frameworks/opt/inputmethodcommon
+[submodule "compile/libbcc"]
+	path = compile/libbcc
+	url = /mydev/AOSP/frameworks/compile/libbcc
+[submodule "compile/mclinker"]
+	path = compile/mclinker
+	url = /mydev/AOSP/frameworks/compile/mclinker
+[submodule "minikin"]
+	path = minikin
+	url = /mydev/AOSP/frameworks/minikin
+[submodule "ml"]
+	path = ml
+	url = /mydev/AOSP/frameworks/ml
+[submodule "multidex"]
+	path = multidex
+	url = /mydev/AOSP/frameworks/multidex
+[submodule "native"]
+	path = native
+	url = /mydev/AOSP/frameworks/native
+[submodule "opt/photoviewer"]
+	path = opt/photoviewer
+	url = /mydev/AOSP/frameworks/opt/photoviewer
+[submodule "rs"]
+	path = rs
+	url = /mydev/AOSP/frameworks/rs
+[submodule "opt/setupwizard"]
+	path = opt/setupwizard
+	url = /mydev/AOSP/frameworks/opt/setupwizard
+[submodule "compile/slang"]
+	path = compile/slang
+	url = /mydev/AOSP/frameworks/compile/slang
+[submodule "support"]
+	path = support
+	url = /mydev/AOSP/frameworks/support
+[submodule "opt/telephony"]
+	path = opt/telephony
+	url = /mydev/AOSP/frameworks/opt/telephony
+[submodule "opt/timezonepicker"]
+	path = opt/timezonepicker
+	url = /mydev/AOSP/frameworks/opt/timezonepicker
+[submodule "opt/vcard"]
+	path = opt/vcard
+	url = /mydev/AOSP/frameworks/opt/vcard
+[submodule "opt/net/voip"]
+	path = opt/net/voip
+	url = /mydev/AOSP/frameworks/opt/net/voip
+[submodule "volley"]
+	path = volley
+	url = /mydev/AOSP/frameworks/volley
+[submodule "webview"]
+	path = webview
+	url = /mydev/AOSP/frameworks/webview
+[submodule "opt/net/wifi"]
+	path = opt/net/wifi
+	url = /mydev/AOSP/frameworks/opt/net/wifi
+[submodule "wilhelm"]
+	path = wilhelm
+	url = /mydev/AOSP/frameworks/wilhelm
